@@ -2,3 +2,5 @@ specVersion: 0.36.0
 name: demofunc
 runtime: node
 created: 2024-06-12T15:57:23.171398668-03:00
+build:
+  builder: s2i
